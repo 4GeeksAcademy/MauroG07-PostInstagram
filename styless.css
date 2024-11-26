@@ -1,0 +1,33 @@
+body {
+    background-color: black;   
+}
+
+.IgPost {
+    background-color: white;
+    font-family: "Roboto", sans-serif;
+    max-width: 380px;
+    border-radius: 5px;
+    margin-left: 120px;     
+}
+.HeaderPost {
+    display: flex;
+    padding-top: 5px;
+    margin-left: 5px;
+}
+#html5Icon {
+   font-size: 30px;
+}
+
+.PhotoPost {
+    width: 380px;
+    overflow: hidden;
+}
+#TotalLikes{
+    font-size: small;
+}
+.Buttons {
+    margin-left: 5px;
+}
+.FooterPost {
+    padding: 5px;
+}
